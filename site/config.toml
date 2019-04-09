@@ -10,4 +10,4 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 snipcart_test_api_key = "M2NlNDE5ZDItNTBhNS00ZWJlLWE1OWMtNWRkNGM2ZTM3MmI1NjM2OTAzNTcyMzYyMDcwNzEw"
-snipcart_live_api_key = ""
+snipcart_live_api_key = "hi"
